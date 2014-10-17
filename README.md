@@ -1,4 +1,4 @@
-Field-Type-Codice-Fiscale
+Field-Type-CPF
 =========================
 
 CPF (Cadastro de Pessoa Fisica) Field Type for PyroCMS
